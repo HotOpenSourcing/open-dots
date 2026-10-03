@@ -20,8 +20,6 @@ server/app/routers/__pycache__/
 server/app/services/__pycache__/
 
 # Local data & environment secrets
-.env
-.env.local
 .env*.local
 *.log
 .open-dots/
@@ -35,5 +33,5 @@ server/app/services/__pycache__/
 # OS & Editor files
 .DS_Store
 Thumbs.db
-.vscode/
 .idea/
+config.bat
